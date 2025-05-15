@@ -5,7 +5,7 @@
 #include <string>
 #include <iostream>
 
-namespace FSAF {
+namespace FASF {
     int numElementIs = 0;
     std::string option = "";
     bool elementFound = false;
